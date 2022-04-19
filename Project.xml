@@ -184,8 +184,8 @@
 
 	<!--Place custom nodes like icons here (higher priority to override the HaxeFlixel icon)-->
 	
-	<icon path="art/iconDave.png" size='16'/>
-	<icon path="art/iconDave.png" size='32'/>
-	<icon path="art/iconDave.png" size='64'/>
-	<icon path="art/iconDave.png" />
+	<icon path="art/icon_Dave.png" size='16'/>
+	<icon path="art/icon_Dave.png" size='32'/>
+	<icon path="art/icon_Dave.png" size='64'/>
+	<icon path="art/icon_Dave.png" />
 </project>
